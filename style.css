@@ -1,0 +1,16 @@
+body {
+    background: url('background.png') repeat-x #fff;
+	font-family: 'Zilla Slab', serif;
+}
+
+a, a:visited, a:active {
+	font-size: 250%;
+	color: #b91216;
+	font-family: 'Chicle', cursive;
+	word-spacing: 30px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5b9311;
+}
