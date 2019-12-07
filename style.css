@@ -3,14 +3,24 @@ body {
 	font-family: 'Zilla Slab', serif;
 }
 
-a, a:visited, a:active {
+a, a:visited, a:active, h1 {
 	font-size: 250%;
 	color: #b91216;
 	font-family: 'Chicle', cursive;
-	word-spacing: 30px;
 	text-decoration: none;
 }
 
 a:hover {
 	color: #5b9311;
+}
+
+.content {
+	width: 80%;
+	word-spacing: 30px;
+	padding-bottom: 30px;
+}
+
+img, a img {
+	border: none;
+	padding: 5px;
 }
